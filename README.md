@@ -1,10 +1,9 @@
 # travel-optimizer
 
-- data
-This folder contains the necessary datasets required for the travel optimization model.
+- data:
+  - this folder contains the necessary datasets required for the travel optimization model.
 
-# Dataset.xlsx
-This file contains data about places (activities) used in the travel optimization model. It includes key details about each place, such as activity type, start/end times, durations, costs, and ratings.
+- Dataset.xlsx: this file contains data about places (activities) used in the travel optimization model. It includes key details about each place, such as activity type, start/end times, durations, costs, and ratings.
 
 # distance_in_min.xlsx
 This file contains the travel times (in minutes) between all pairs of places in the dataset. It represents the time required to travel from one location to another.
