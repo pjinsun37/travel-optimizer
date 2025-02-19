@@ -60,7 +60,7 @@ Below are 3 interesting use cases of our model
 
 # ⚙️ Tech Stack
 - Python (for optimization and data processing)
-- Gurobi / PuLP (for Mixed Integer Programming)
+- Gurobi (for Mixed Integer Programming)
 - Google Maps API (for travel time calculations)
 
 # 📂 Project Files
