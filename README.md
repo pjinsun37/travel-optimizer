@@ -22,9 +22,11 @@ While also considering:
 
 [Read full mathematical model here](https://drive.google.com/file/d/1CcCCggNauQO3I1GghzhS_mDh2wIXL7he/view?usp=sharing)
 
-# 📊 Use Cases
+# 📊 Results
 
-**7-hour trip during transit**
+Below are 3 interesting use cases of our model
+
+**7-hour transit tour**
 - Time: 14:00 - 21:00
 - Budget: SGD 0 - 500
 - Optimal itinerary
