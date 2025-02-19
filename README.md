@@ -1,4 +1,7 @@
-# travel-optimizer
+# Singapore Travel Itinerary Optimizer
+
+Intelligent trip planning tool that helps users create the most efficient travel itineraries!
+This project employs Mixed Integer Programming concepts to create a travel itinerary optimization model that helps maximize the enjoyment and travel time efficiency for travelers exploring Singapore. We created an optimization model that includes sets of activities categorized by type (e.g., breakfast, lunch, dinner, tours, attractions) and parameters such as cost, duration, and enjoyment ratings. To fit the model for real-world applications, we collected comprehensive data using the Google Maps API, including place names, ratings, price levels, opening/closing hours, and distances between locations. We also sourced data on tours, activities, and restaurants from popular travel platforms and online communities.
 
 - Dataset.xlsx: contains data about places (activities) used in the travel optimization model. It includes key details about each place, such as activity type, start/end times, durations, costs, and ratings.
 
