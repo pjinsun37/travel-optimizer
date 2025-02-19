@@ -24,6 +24,7 @@ To fit the model for real-world applications, we collected comprehensive data us
 - Optimal itinerary
 
 <img width="624" alt="Screenshot 2025-02-19 at 3 11 36 PM" src="https://github.com/user-attachments/assets/23b14497-1291-4d9a-bc8b-0cab53fc9aeb" />
+
 Total time spent on road: 41 minutes, Total enjoyment: 93%
 
 
@@ -33,8 +34,8 @@ Total time spent on road: 41 minutes, Total enjoyment: 93%
 - Optimal itinerary:
 
 <img width="622" alt="Screenshot 2025-02-19 at 3 13 51 PM" src="https://github.com/user-attachments/assets/832693f0-607e-4695-8641-9118bc90a727" />
-Total time spent on road: 90 minutes, Total enjoyment: 91%
 
+Total time spent on road: 90 minutes, Total enjoyment: 91%
 
 **Full day budget trip from NUS University Town**
 - Time: 08:00 - 23:00
@@ -42,4 +43,5 @@ Total time spent on road: 90 minutes, Total enjoyment: 91%
 - Optimal itinerary:
 
 <img width="615" alt="Screenshot 2025-02-19 at 3 15 29 PM" src="https://github.com/user-attachments/assets/dd5e9f73-a1b8-4552-8a74-12522a0241c3" />
+
 Total time spent on road: 90 minutes, Total enjoyment: 87.5%
