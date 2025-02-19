@@ -35,6 +35,8 @@ Below are 3 interesting use cases of our model
 
 <img width="624" alt="Screenshot 2025-02-19 at 3 11 36 PM" src="https://github.com/user-attachments/assets/23b14497-1291-4d9a-bc8b-0cab53fc9aeb" />
 
+<p>&nbsp;</p>
+
 **Full-day luxury trip from MBS**
 - Constraints:
   - Time: 08:00 - 22:00
@@ -43,6 +45,8 @@ Below are 3 interesting use cases of our model
 - Total enjoyment: 91%
 
 <img width="622" alt="Screenshot 2025-02-19 at 3 13 51 PM" src="https://github.com/user-attachments/assets/832693f0-607e-4695-8641-9118bc90a727" />
+
+<p>&nbsp;</p>
 
 **Full-day budget trip from NUS University Town**
 - Constraints:
