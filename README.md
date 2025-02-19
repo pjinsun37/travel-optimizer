@@ -10,13 +10,17 @@ There are travel planning tools out there, but tend to lack customized itinerary
 
 # 💡 Solution
 
-Our Travel Optimizer uses Mixed Integer Programming (MIP) to generate an optimized travel schedule. It:
-- Considers multiple constraints: budget, time windows, travel duration, and enjoyment scores.
-- Categorizes activities: Food, Tours, and Attractions are optimally distributed throughout the itinerary.
-- Minimizes travel time: Using Google Maps API, the optimizer ensures efficient route planning.
-- Maximizes overall satisfaction: The final itinerary balances cost and enjoyment scores.
+Our Travel Optimizer uses Mixed Integer Programming (MIP) to generate an optimized travel schedule.
 
-[Read full documentation here](https://drive.google.com/file/d/1CcCCggNauQO3I1GghzhS_mDh2wIXL7he/view?usp=sharing)
+Our optimization model aims to (in order of priority): 
+- Minimize travel time: Using Google Maps API, the optimizer ensures efficient route planning.
+- Maximize overall satisfaction: The final itinerary balances cost and enjoyment scores.
+
+While also considering:
+- Constraints on budget, time windows, travel duration, and enjoyment scores.
+- Variety of activities where food, tours, and attractions are optimally distributed throughout the itinerary.
+
+[Read full mathematical model here](https://drive.google.com/file/d/1CcCCggNauQO3I1GghzhS_mDh2wIXL7he/view?usp=sharing)
 
 # 📊 Use Cases
 
