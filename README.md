@@ -27,32 +27,31 @@ While also considering:
 Below are 3 interesting use cases of our model
 
 **7-hour transit tour**
-- Time: 14:00 - 21:00
-- Budget: SGD 0 - 500
-- Optimal itinerary
+- Constraints:
+  - Time: 14:00 - 21:00
+  - Budget: SGD 0 - 500
+- Total time spent on road: 41 minutes
+- Total enjoyment: 93%
 
 <img width="624" alt="Screenshot 2025-02-19 at 3 11 36 PM" src="https://github.com/user-attachments/assets/23b14497-1291-4d9a-bc8b-0cab53fc9aeb" />
 
-Total time spent on road: 41 minutes, Total enjoyment: 93%
-
-
 **Full-day luxury trip from MBS**
-- Time: 08:00 - 22:00
-- Budget: SGD 500 - 800
-- Optimal itinerary:
+- Constraints:
+  - Time: 08:00 - 22:00
+  - Budget: SGD 500 - 800
+- Total time spent on road: 90 minutes
+- Total enjoyment: 91%
 
 <img width="622" alt="Screenshot 2025-02-19 at 3 13 51 PM" src="https://github.com/user-attachments/assets/832693f0-607e-4695-8641-9118bc90a727" />
 
-Total time spent on road: 90 minutes, Total enjoyment: 91%
-
 **Full-day budget trip from NUS University Town**
-- Time: 08:00 - 23:00
-- Budget: SGD 0 - 150
-- Optimal itinerary:
+- Constraints:
+  - Time: 08:00 - 23:00
+  - Budget: SGD 0 - 150
+- Total time spent on road: 90 minutes
+- Total enjoyment: 87.5%
 
 <img width="615" alt="Screenshot 2025-02-19 at 3 15 29 PM" src="https://github.com/user-attachments/assets/dd5e9f73-a1b8-4552-8a74-12522a0241c3" />
-
-Total time spent on road: 90 minutes, Total enjoyment: 87.5%
 
 
 # ⚙️ Tech Stack
