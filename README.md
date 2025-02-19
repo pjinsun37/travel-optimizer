@@ -16,7 +16,7 @@ Our Travel Optimizer uses Mixed Integer Programming (MIP) to generate an optimiz
 - Minimizes travel time: Using Google Maps API, the optimizer ensures efficient route planning.
 - Maximizes overall satisfaction: The final itinerary balances cost and enjoyment scores.
 
-[Read full problem formulation here](https://drive.google.com/file/d/1CcCCggNauQO3I1GghzhS_mDh2wIXL7he/view?usp=sharing)
+[Read full documentation here](https://drive.google.com/file/d/1CcCCggNauQO3I1GghzhS_mDh2wIXL7he/view?usp=sharing)
 
 # 📊 Use Cases
 
