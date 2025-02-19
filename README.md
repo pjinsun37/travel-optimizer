@@ -1,6 +1,6 @@
 # Singapore Travel Itinerary Optimizer
 
-# 🔎 Problem
+# ‼️ Problem
 Travel planning can be extremely overwhelming. When planning a trip, travelers often struggle with:
 - Finding the best itinerary that balances cost, time, and enjoyment.
 - Managing different types of activities (food, attractions, tours) within a given time frame.
