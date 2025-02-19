@@ -1,6 +1,6 @@
 # travel-optimizer
 
-# data
+- data
 This folder contains the necessary datasets required for the travel optimization model.
 
 # Dataset.xlsx
