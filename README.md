@@ -36,7 +36,7 @@ Below are 3 interesting use cases of our model
 Total time spent on road: 41 minutes, Total enjoyment: 93%
 
 
-**Full day luxury trip from MBS**
+**Full-day luxury trip from MBS**
 - Time: 08:00 - 22:00
 - Budget: SGD 500 - 800
 - Optimal itinerary:
@@ -45,7 +45,7 @@ Total time spent on road: 41 minutes, Total enjoyment: 93%
 
 Total time spent on road: 90 minutes, Total enjoyment: 91%
 
-**Full day budget trip from NUS University Town**
+**Full-day budget trip from NUS University Town**
 - Time: 08:00 - 23:00
 - Budget: SGD 0 - 150
 - Optimal itinerary:
