@@ -6,7 +6,7 @@ Travel planning can be extremely overwhelming. When planning a trip, travelers o
 - Managing different types of activities (food, attractions, tours) within a given time frame.
 - ... while also minimizing unnecessary travel time between locations.
 
-There are travel planning tools out there, but tend to lack customized itinerary optimization that adapts to the traveler’s specific constraints.
+There are several travel planning tools out there, but they tend to lack **customized itinerary optimization** that adapts to the traveler’s specific constraints.
 
 # 💡 Solution
 
@@ -14,7 +14,7 @@ Our Travel Optimizer uses Mixed Integer Programming (MIP) to generate an optimiz
 
 Our optimization model aims to (in order of priority): 
 - Minimize travel time: Using Google Maps API, the optimizer ensures efficient route planning.
-- Maximize overall satisfaction: The final itinerary balances cost and enjoyment scores.
+- Maximize overall satisfaction: In terms of review scores
 
 While also considering:
 - Constraints on budget, time windows, travel duration, and enjoyment scores.
@@ -37,7 +37,7 @@ Below are 3 interesting use cases of our model
 
 <p>&nbsp;</p>
 
-**Full-day luxury trip from MBS**
+**Full-day trip from MBS**
 - Constraints:
   - Time: 08:00 - 22:00
   - Budget: SGD 500 - 800
